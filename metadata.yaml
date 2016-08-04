@@ -1,0 +1,36 @@
+_repo: Twenty-Years-at-Hull-House--with-autobiographical-notes_1325
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Addams, Jane
+    alias: Addams, Laura Jane
+    birthdate: 1860
+    deathdate: 1935
+    gutenberg_agent_id: '602'
+    url: http://www.gutenberg.org/2009/agents/602
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Addams
+description: Introduction -- Twenty years at Hull-House. Earliest impressions ; Influence
+  of Lincoln ; Boarding-school ideals ; The snare of preparation ; First days at Hull-House
+  ; Subjective necessity for social settlements ; Some early undertakings at Hull-House
+  ; Problems of poverty ; A decade of economic discussion ; Pioneer labor legislation
+  in Illinois ; Immigrants and their children ; Tolstoyism ; Public activities and
+  investigations ; Civic cooperation ; The value of social clubs ; Arts at Hull-House
+  ; Echoes of the Russian Revolution ; Socialized education -- Notes -- Study questions.
+gutenberg_issued: '1998-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1325'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social service -- Illinois -- Chicago -- History'
+- !lcsh 'Women social reformers -- United States -- Biography'
+- !lcc 'HV'
+- !lcsh 'Social settlements -- Illinois -- Chicago -- History'
+- !lcsh 'Addams, Jane, 1860-1935'
+- !lcsh 'Hull House (Chicago, Ill.) -- History'
+- GITenberg
+title: Twenty Years at Hull House; with Autobiographical Notes
+url: http://www.gutenberg.org/ebooks/1325
