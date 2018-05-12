@@ -1,5 +1,8 @@
 _repo: Twenty-Years-at-Hull-House--with-autobiographical-notes_1325
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Addams, Jane
@@ -16,6 +19,8 @@ description: Introduction -- Twenty years at Hull-House. Earliest impressions ; 
   in Illinois ; Immigrants and their children ; Tolstoyism ; Public activities and
   investigations ; Civic cooperation ; The value of social clubs ; Arts at Hull-House
   ; Echoes of the Russian Revolution ; Socialized education -- Notes -- Study questions.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1325#Twenty-Years-at-Hull-House--with-autobiographical-notes
 gutenberg_issued: '1998-05-01'
 gutenberg_type: Text
 identifiers:
